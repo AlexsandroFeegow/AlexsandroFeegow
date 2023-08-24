@@ -7,7 +7,7 @@
 <h3> ✨ Sobre mim 🔭 : </h3><br>
 - 💬 Me chamo <b>Alexsandro Fonseca</b>, tenho 26 anos.<br>
 - 📌  De Manaus, Amazônia, Brasil.<br>
-- 💼  Desenvolvedor Web fullstack<br>
+- 💼  Desenvolvedor Web FullStack<br>
 - 🎓 Bacharel em Sistemas de Informação <br><br><br>
 
 
@@ -19,20 +19,6 @@
 
 <hr>   
        
-
-### Connect with me:
-<br/>
-
-<div>
-
-
-
-
-
-<a href="https://www.instagram.com/alex_westside_" target="_blank"><img align="left" alt="Instagram" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/alex_westside_" target="_blank"><img align="left" alt="Twitter" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://www.linkedin.com/in/alexsandro-a-fonseca" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-
 
 
 </br>
@@ -74,7 +60,7 @@
 
 <a href="https://github.com/AlexWside">
        
-![card](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWside&hide=html&layout=compact=true&theme=dark)      
+ 
 
        
  </div>
